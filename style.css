@@ -1,9 +1,10 @@
 body {
-    background-color: #f6f4e6;
+    background-color: #0f3057;
     padding-left: 5%;
     padding-right: 5%;
     padding-bottom: 5%;
 }
+
 
 .main-container {
     background-color: white;
@@ -36,8 +37,8 @@ body {
     margin-right: 10%;
 }
 
-.card__styling-1 {
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+.card {
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 .see-more-button__container-button {
