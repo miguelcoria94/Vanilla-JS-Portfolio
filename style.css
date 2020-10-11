@@ -28,12 +28,25 @@ body {
     margin-right: 10%;
 }
 
+.card__styling-1 {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
 .see-more-button__container-button {
     border: 0;
     color: #0f3057;
     outline:none !important;
     background-color: inherit;
     padding-bottom: 2rem;
+}
+
+.btn-warning {
+    border: 0;
+    background-color: #0f3057;
+}
+
+.btn-warning:hover {
+    background-color: #fddb3a
 }
 
 .see-more-button__container-button-text {
