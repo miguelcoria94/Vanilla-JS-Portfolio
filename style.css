@@ -50,7 +50,17 @@ body {
 }
 
 .btn-warning:hover {
-    background-color: #fddb3a
+    background-color: #fddb3a;
+}
+
+.btn-danger {
+    border: 0;
+    background-color: #fddb3a;
+}
+
+.btn-danger:hover {
+    background-color: #fddb3a;
+    background-color: #0f3057;
 }
 
 .see-more-button__container-button-text {
