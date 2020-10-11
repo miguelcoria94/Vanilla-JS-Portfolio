@@ -11,9 +11,11 @@ body {
     padding-top: 1rem;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
     border-radius: 10px;
+    margin-bottom: 0;
 }
 
-.header__container {
+.main-content__container {
+    margin-bottom: 0;
 }
 
 .header__container-special-text {
