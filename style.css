@@ -18,6 +18,9 @@ body {
     margin-bottom: 0;
 }
 
+.main-content__container-em {
+    color: #fddb3a
+}
 .main-content__container-my-name {
     color: #0f3057;
 }
