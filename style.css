@@ -129,4 +129,5 @@ body {
 
 .go-back-button:hover {
     text-decoration: none;
+    max-width: 0;
 }
