@@ -12,6 +12,15 @@ body {
     border-radius: 10px;
 }
 
+.header__container {
+}
+
 .header__container-special-text {
     color: #fddb3a
+}
+
+.header__container-text {
+    padding: 0;
+    margin-left: 10%;
+    margin-right: 10%;
 }
