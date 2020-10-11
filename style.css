@@ -18,6 +18,10 @@ body {
     margin-bottom: 0;
 }
 
+.main-content__container-my-name {
+    color: #0f3057;
+}
+
 .header__container-special-text {
     color: #fddb3a
 }
