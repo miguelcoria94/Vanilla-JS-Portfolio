@@ -39,6 +39,11 @@ body {
 
 .card {
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    transition: all 1s;
+}
+
+.card:hover {
+    transform: scale(1.1);
 }
 
 .see-more-button__container-button {
